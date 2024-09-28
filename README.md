@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rodrigo and I'm a Fullstack Developer, from Dallas, TX</h2>
+<h2 align="left">Hi 👋! My name is Rodrigo and I'm a Software Engineer, from Dallas, TX</h2>
 
 ###
 
